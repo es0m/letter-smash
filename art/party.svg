@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 480">
+  <defs>
+    <g id="balloon">
+      <path d="M0 42c9 29-24 55-5 88s-6 49-12 54" fill="none" stroke="#f8c9f4" stroke-width="1.6" opacity=".64"/>
+      <path d="m0 33-7 13 14-1Z" fill="currentColor"/>
+      <path d="M33-1c0 21-19 40-33 40S-33 20-33-1-19-37 0-37 33-22 33-1Z" fill="currentColor"/>
+      <path d="M-20-1c0-10 6-18 14-21" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".42"/>
+    </g>
+  </defs>
+  <path d="M0 125Q137 131 252 0m595 0q124 126 253 109" fill="none" stroke="#edb5ef" stroke-width="2" opacity=".6"/>
+  <g opacity=".77">
+    <path d="m39 125 15-1-5 20Z" fill="#f7c881"/>
+    <path d="m81 117 16-5 1 20Z" fill="#fa91b5"/>
+    <path d="m126 99 16-7 1 23Z" fill="#a3e4ce"/>
+    <path d="m169 75 14-11 6 22Z" fill="#f7c881"/>
+    <path d="m207 44 12-11 6 20Z" fill="#bb9ef2"/>
+    <path d="m885 34 13 11-20 8Z" fill="#a3e4ce"/>
+    <path d="m920 62 15 10-19 11Z" fill="#fa91b5"/>
+    <path d="m961 85 15 7-18 13Z" fill="#f7c881"/>
+    <path d="m1006 100 18 5-15 14Z" fill="#bb9ef2"/>
+    <path d="m1048 109 17 1-9 17Z" fill="#a3e4ce"/>
+  </g>
+  <use href="#balloon" transform="translate(67 277) rotate(-12) scale(1.36)" color="#f39cbf"/>
+  <use href="#balloon" transform="translate(148 333) rotate(9) scale(.87)" color="#bba3f6"/>
+  <use href="#balloon" transform="translate(1025 287) rotate(10) scale(1.4)" color="#f6bd83"/>
+  <use href="#balloon" transform="translate(948 349) rotate(-11) scale(.84)" color="#89dacc"/>
+  <g fill="none" stroke-linecap="round" stroke-width="4" opacity=".76">
+    <path d="m116 190 6 10m142 91 8-9m524 89 11-5m93-147 8 9m149-61 6-10" stroke="#ffd586"/>
+    <path d="m188 189 5-10m132-82 8-5m474 67 9 5m124 100 6-10" stroke="#a2e6ce"/>
+    <path d="m224 331 7 6m131 59 8-5m355-301 5-9m170 351 8-4" stroke="#ffa9dc"/>
+    <path d="m296 190 6 6m113-147 5 9m346 181 7-6m240 185 8 3" stroke="#c5aaf6"/>
+  </g>
+  <g fill="#fcd2ec" opacity=".58">
+    <circle cx="239" cy="138" r="3"/><circle cx="148" cy="239" r="3"/><circle cx="90" cy="396" r="3.5"/>
+    <circle cx="350" cy="270" r="2"/><circle cx="564" cy="65" r="3"/><circle cx="867" cy="116" r="3"/>
+    <circle cx="957" cy="181" r="3.5"/><circle cx="878" cy="315" r="2.5"/><circle cx="1072" cy="362" r="3.5"/>
+  </g>
+</svg>

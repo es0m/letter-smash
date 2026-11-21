@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 480">
+  <defs>
+    <path id="leaf" d="M0 0c-22-4-25-18-23-30C-8-29 2-17 0 0Z"/>
+    <g id="flower">
+      <path d="M0-6c-13-13 6-18 6-5 14-10 19 8 5 9C21 10 4 19 1 6c-11 13-22-3-10-7-14-5-4-20 9-5Z" fill="currentColor"/>
+      <circle r="4.5" fill="#f8d571"/>
+    </g>
+    <g id="butterfly">
+      <path d="M0 0C-18-29-34-11-13 5c-16 13 10 24 13-3 3 27 29 16 13 3C34-11 18-29 0 0Z" fill="currentColor"/>
+      <path d="M0-1v11m0-10-5-7m5 7 5-7" stroke="#57345b" stroke-width="1.7" stroke-linecap="round"/>
+    </g>
+  </defs>
+  <path d="M0 369Q106 324 218 385T464 480H0Zm1100-34q-143 0-220 68t-240 77h460Z" fill="#379177" opacity=".48"/>
+  <path d="M0 416q120-39 244-4t232 68H0Zm1100-30q-105-16-206 55-44 28-132 39h338Z" fill="#60ab7d" opacity=".35"/>
+  <path d="M65 480q45-84 40-183m-1 101q24-47 51-46m-68 80q-31-61-60-69m991 117q-32-78-31-190m4 101q-29-33-57-38m68 86q33-74 64-84" fill="none" stroke="#8bd6a4" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#92dc9d">
+    <use href="#leaf" transform="translate(105 358) rotate(6) scale(1.2)"/>
+    <use href="#leaf" transform="translate(104 399) rotate(72)"/>
+    <use href="#leaf" transform="translate(72 405) rotate(-30)"/>
+    <use href="#leaf" transform="translate(988 371) rotate(89) scale(1.14)"/>
+    <use href="#leaf" transform="translate(972 378) rotate(-29)"/>
+    <use href="#leaf" transform="translate(1031 391) rotate(77)"/>
+  </g>
+  <use href="#flower" transform="translate(105 291) scale(1.65)" color="#ff9fae"/>
+  <use href="#flower" transform="translate(27 357) rotate(-21) scale(.94)" color="#fbd5a4"/>
+  <use href="#flower" transform="translate(155 349) scale(.95)" color="#c5acfc"/>
+  <use href="#flower" transform="translate(987 291) scale(1.58)" color="#d5b8ff"/>
+  <use href="#flower" transform="translate(934 350) rotate(28)" color="#ffaec3"/>
+  <use href="#flower" transform="translate(1067 354) scale(1.13)" color="#f9cf85"/>
+  <use href="#butterfly" transform="translate(182 147) rotate(-19) scale(1.13)" color="#f7bd89"/>
+  <use href="#butterfly" transform="translate(900 119) rotate(22) scale(.95)" color="#f4acc6"/>
+  <path d="M120 213q-29-69 51-67m697-12q-43 42 13 74" fill="none" stroke="#b4e3ba" stroke-width="1.7" stroke-dasharray="3 6" stroke-linecap="round" opacity=".6"/>
+  <g fill="#f8df8e" opacity=".66">
+    <circle cx="80" cy="137" r="3"/><circle cx="124" cy="220" r="2.4"/><circle cx="253" cy="195" r="3"/>
+    <circle cx="295" cy="88" r="3"/><circle cx="408" cy="134" r="2"/><circle cx="556" cy="53" r="3"/>
+    <circle cx="712" cy="107" r="2"/><circle cx="805" cy="173" r="2.8"/><circle cx="945" cy="198" r="3"/>
+    <circle cx="1043" cy="151" r="2.8"/><circle cx="799" cy="370" r="3"/><circle cx="309" cy="335" r="2.8"/>
+  </g>
+</svg>
